@@ -2,7 +2,7 @@
 
 testing with basic text
 
-# Big headding
+# Big heading
 
 ### Section 1: Text
 
